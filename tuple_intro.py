@@ -1,0 +1,38 @@
+#2ND DATA TYPE #
+#TUPLE#
+
+'''
+TUPLE IS A CONATINER (HOMOGENEOUS AND HETROGENEUOS )
+TUPLE IS IMMUTABLE
+WE CAN ONLY CONCATE TUPLE WITH TUPLE
+SIMILAR TO LIST
+FASTER THEN LIST
+SEQUENCE DATA TYPE
+INDEXING (+IVE AS WELL AS -VE)
+ROUND BRACKETS ()
+DUPLICATION ALLOWED
+
+# DIFFERENCE BETWEEN TUPLE AND LIST
+ TUPLE IS IMMUTABLE ,  LIST IS MUTABLE
+ TUPLE IS FASTER THEN LIST
+ TUPLE IS REPRESENTED BY ()  , LIST IS REPRESENYTED BY []
+
+ '''
+#NOTE = IF TUPLE CONATIN SINGLE ELEMENT , THEN PLACE A COMMA AFTER THE ELEMENT TO MAKE IT TUPLE
+
+t = ()
+print(type(t))
+
+t1 = (11,)
+print(type(t1))
+
+t2 = ("apple",)
+print(type(t2))
+
+'''
+# question (why tuple is faster than list )
+(tuple are immutable data type )
+(tuple needs less memory)
+(faster iteration) (looping)
+(optimization by python interpreter)
+'''

@@ -15,7 +15,7 @@ FEATUERS
 5) REPRESENTATION []
 6) IT SLOWER AS COMPARE TO TUPLE .
 
-'''
+
 
 lis = []
 print(type(lis))
@@ -29,4 +29,10 @@ print("number of records:",len(records))
 
 records [1] = 90
 print(records)
+'''
+
+
+
+
+
 
