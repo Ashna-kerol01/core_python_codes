@@ -20,7 +20,7 @@ DUPLICATION ALLOWED
  '''
 #NOTE = IF TUPLE CONATIN SINGLE ELEMENT , THEN PLACE A COMMA AFTER THE ELEMENT TO MAKE IT TUPLE
 
-t = ()
+t3 = ()
 print(type(t))
 
 t1 = (11,)
@@ -36,3 +36,5 @@ print(type(t2))
 (faster iteration) (looping)
 (optimization by python interpreter)
 '''
+
+
